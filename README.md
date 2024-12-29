@@ -65,21 +65,7 @@ To enable the feedback feature, update the following details in the `send_feedba
 - **SMTP Server**: Update the SMTP server address (default is `smtp.gmail.com`).
 - **Email Credentials**: Replace `your_email@gmail.com` and `your_password` with your email and password (use an app-specific password if using Gmail).
 
-## Screenshots
-- **Home Page**:
-  Displays an overview of the dashboard with a welcoming message.
 
-- **Seasonal Revenue Trends**:
-  ![Seasonal Trends](tata_project_page-0001.jpg)
-
-- **Top 10 Customers**:
-  ![Top Customers](tata_project_page-0003.jpg)
-
-- **Top 10 Countries**:
-  ![Top Countries](tata_project_page-0002.jpg)
-
-- **Demand by Country**:
-  ![Country Demand](tata_project_page-0004.jpg)
 
 ## Technologies Used
 - **Streamlit**: For building the web application.
